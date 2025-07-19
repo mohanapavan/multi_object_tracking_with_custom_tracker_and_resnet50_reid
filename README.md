@@ -40,11 +40,11 @@ A lightweight, real-time tracker that:
 
 
 ## 🔧 Pipeline Architecture
-[Pipeline Architecture](https://github.com/mohanapavan/multi_object_tracking_with_custom_tracker_and_resnet50_reid/blob/main/images/pipeline.png?raw=true)
+![Pipeline Architecture](https://github.com/mohanapavan/multi_object_tracking_with_custom_tracker_and_resnet50_reid/blob/main/images/pipeline.png?raw=true)
 
 
 ## 🔄 How Tracking Works
-[How Tracking Works](https://github.com/mohanapavan/multi_object_tracking_with_custom_tracker_and_resnet50_reid/blob/main/images/image.png?raw=true)
+![How Tracking Works](https://github.com/mohanapavan/multi_object_tracking_with_custom_tracker_and_resnet50_reid/blob/main/images/image.png?raw=true)
 
 
 
